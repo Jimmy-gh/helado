@@ -1,1 +1,1 @@
-<?php require_once("findex.html") ?>
+<?php require_once("index.html") ?>
